@@ -1,4 +1,4 @@
-# sm64ex-coop
+# IOS-coop
 Online multiplayer mod for SM64 that synchronizes all entities and every level for multiple players. Fork of [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex). 
 
 Feel free to report bugs and contribute, but remember, there must be **no upload of any copyrighted asset**. 
